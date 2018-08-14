@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "67348991583",
+    "firebase_url": "https://ionic3-push-3875e.firebaseio.com",
+    "project_id": "ionic3-push-3875e",
+    "storage_bucket": "ionic3-push-3875e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67348991583:android:475ed315dd239063",
+        "android_client_info": {
+          "package_name": "com.luans.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67348991583-r02im0rokbg67uc0m2b1mfqprk5k14tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeuJRz0Rhffu7rgU4gym5AsxPSBrKdEOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
